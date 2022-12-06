@@ -1,2 +1,3 @@
 # Deep-NN-Stochastic-Control-Problem
-Tidal project
+Implemeted in Tensorflow a deep neural network approximation for a stochastic control problem associated to an energy storage problem.
+
